@@ -39,6 +39,10 @@ dependencies:
     sdk: flutter
   flutter_launcher_icons: ^0.14.3
   flutter_svg: ^2.0.17
+  get: ^4.7.2
+  bloc: ^9.0.0
+  flutter_bloc: ^9.1.0
+  shared_preferences: ^2.5.3
 
 flutter_launcher_icons:
   android: "launcher_icon"
